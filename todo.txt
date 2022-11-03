@@ -4,3 +4,5 @@
 4. Test
 5. Validate
 6. Sleep
+7. record
+8. exercise
